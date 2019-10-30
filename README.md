@@ -1,1 +1,1 @@
-# Tech degree project 1
+Random quotes generator
